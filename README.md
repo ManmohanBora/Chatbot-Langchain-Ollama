@@ -77,13 +77,7 @@ streamlit run localama.py
 - [Ollama](https://ollama.com/)
 - [Streamlit](https://streamlit.io/)
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-# requirements.txt
+## requirements.txt
 
 ```
 streamlit
@@ -93,4 +87,7 @@ langchain-community
 python-dotenv
 ollama
 ```
+
+## 📸 Demo Screenshot
+![3cfbbd28-9a9c-497a-968b-a76c87386c0f](https://github.com/user-attachments/assets/9c960de6-e204-4d0a-b696-8b6ffa177aaa)
 
